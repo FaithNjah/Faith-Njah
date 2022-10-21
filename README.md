@@ -6,6 +6,5 @@ My great collaborative skills, critical thinking skills, problem solving skills 
 Asides coding, i love reading, networking and i am passionate about sharing knowledge and ideas. 
 I am EXTREMELY INTENTIONALLY about my growth and the growth of literally everyone and everything around me.
 
-Let's make open source contribution fun and exciting:
-smiley
+Let's make open source contribution fun and exciting
 !
